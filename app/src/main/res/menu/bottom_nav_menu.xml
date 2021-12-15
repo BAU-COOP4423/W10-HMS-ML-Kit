@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/text"
+        android:title="Text"
+        android:icon="@drawable/ic_baseline_text_fields_24"/>
+    <item
+        android:id="@+id/face"
+        android:title="Face"
+        android:icon="@drawable/ic_baseline_face_24"/>
+    <item
+        android:id="@+id/image"
+        android:title="Image"
+        android:icon="@drawable/ic_baseline_image_24"/>
+</menu>
