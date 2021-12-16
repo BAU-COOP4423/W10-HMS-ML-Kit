@@ -13,6 +13,7 @@ This demo project provides demonstration for following scenarios:
 - Text recognition from a static on-device image and on-device translation
 - 2D camera stream face detection
 - On-device static image classification
+- Bottom navigation bar usage
 
 ## Clone the Repository
 
@@ -27,5 +28,5 @@ git clone https://github.com/BAU-COOP4423/W10-HMS-ML-Kit.git
 ```
 ## Utilized resources
 - [HMS ML Kit Integration Codelab Steps](https://developer.huawei.com/consumer/en/codelab/HUAWEIMLKitFaceDetectionKit/index.html#0)
-
+- [Bottom Navigation Bar Official Documentation](https://material.io/components/bottom-navigation/android)
 > Note: Do not hesitate to open an [issue](https://github.com/BAU-COOP4423/W10-HMS-ML-Kit/issues) for your questions.
