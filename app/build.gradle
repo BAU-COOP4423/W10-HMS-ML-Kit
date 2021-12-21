@@ -57,4 +57,8 @@ dependencies {
     implementation 'com.huawei.hms:ml-computer-vision-face-emotion-model:2.0.1.300'
     // Import the facial feature detection model package.
     implementation 'com.huawei.hms:ml-computer-vision-face-feature-model:2.0.1.300'
+
+    //Image Classification
+    implementation 'com.huawei.hms:ml-computer-vision-classification:3.2.0.300' // Base SDK
+    implementation 'com.huawei.hms:ml-computer-vision-image-classification-model:3.2.0.300'
 }
